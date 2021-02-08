@@ -16,6 +16,7 @@ public class ContactServiceImpl implements ContactService {
         return null;
     }
 
+
     @Override
     public Set<Contact> getByPhoneNumber(Set<Contact> contacts) {
         //TODO
