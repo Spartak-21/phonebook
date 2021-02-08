@@ -18,6 +18,7 @@ public class ContactMain {
         System.out.println("Please follow to commands");
 
         while (true) {
+
             System.out.println("press 0 for adding contact");
             System.out.println("press 1 for deleting contact");
             System.out.println("press 2 for editing contact");
