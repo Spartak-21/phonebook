@@ -51,7 +51,6 @@ public class ContactServiceImpl implements ContactService {
         //TODO
     }
 
-
     @Override
     public boolean deleteContactById(Set<Contact> contacts) {
         //TODO
