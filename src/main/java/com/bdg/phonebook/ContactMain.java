@@ -31,6 +31,7 @@ public class ContactMain {
 
             switch (command) {
                 case "0": {
+                    
                     final boolean isAdded = service.addContact(contacts);
                     if (isAdded) {
                         System.out.println("You successfully add contact");
