@@ -8,6 +8,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class ContactMain {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String command;
