@@ -25,6 +25,7 @@ public class ContactServiceImpl implements ContactService {
     @Override
     public Contact getContact(Contact contact, Set<Contact> contacts) {
         //TODO
+
         return null;
     }
 
